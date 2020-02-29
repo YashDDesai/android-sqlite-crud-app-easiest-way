@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SqliteActivity!</string>
+    <string name="app_name">Sqlite</string>
+    
+    <array name="test">
+    	<item>"1"</item>
+    	<item>"2"</item>
+    </array>
+</resources>
